@@ -1,9 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`npx create-next-app@latest --ts`] and [`npm install -D tailwindcss postcss autoprefixer.`] 
 
-next.JS
-typescript
-tailwind
-postCSS
+-next.JS
+-typescript
+-tailwind
+-postCSS
 
 
 You are able to use @apply in your CSS modules to apply Tailwind classes.
