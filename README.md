@@ -1,6 +1,6 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`npx create-next-app@latest --ts`] and [`npm install -D tailwindcss postcss autoprefixer.`] 
 
-Whats used:
+What is used:
 - next.JS
 - typescript
 - tailwind
